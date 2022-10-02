@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/dagggim999"><img src="https://github.com/daggim99/daggim99/blob/main/devcard.svg" width="400" alt="Daggim Hailu's Dev Card"/></a>
 
 <!--
 **daggim99/daggim99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
